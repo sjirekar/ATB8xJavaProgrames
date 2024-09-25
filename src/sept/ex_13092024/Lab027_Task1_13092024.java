@@ -1,6 +1,6 @@
 package sept.ex_13092024;
 
-public class Task1_13092024 {
+public class Lab027_Task1_13092024 {
     public static void main(String[] args) {
         //printing table of 10
         int num = 10;
