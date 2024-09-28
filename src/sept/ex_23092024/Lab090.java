@@ -8,9 +8,9 @@ public class Lab090 {
             case 'A':
                 System.out.println("A"); // duplicate value of A only so JVM will give error
                 break;
-            case 65:
-                System.out.println("65");
-                break;
+            //case 65:
+              //  System.out.println("65");
+//break;
         }
     }
 }
