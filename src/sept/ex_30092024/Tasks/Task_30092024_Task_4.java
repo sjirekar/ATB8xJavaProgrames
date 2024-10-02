@@ -1,4 +1,4 @@
-package sept.ex_30092024.Task;
+package sept.ex_30092024.Tasks;
 
 public interface Task_30092024_Task_4 {
     public static void main(String[] args) {
