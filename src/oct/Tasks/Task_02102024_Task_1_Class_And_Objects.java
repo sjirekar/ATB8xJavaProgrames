@@ -1,4 +1,4 @@
-package oct.ex_02102024.Tasks;
+package oct.Tasks;
 
 public class Task_02102024_Task_1_Class_And_Objects {
     //Task 1: Write 5 points related to the Class and Objects.
