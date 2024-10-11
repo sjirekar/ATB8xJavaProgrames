@@ -1,4 +1,4 @@
-package oct.Tasks;
+package oct.ex_02102024.Tasks;
 
 public class Task_02102024_Task_2_OOPs_And_Features {
 

@@ -1,4 +1,4 @@
-package oct.Tasks;
+package oct.ex_02102024.Tasks;
 
 public class ATBStudent {
 //    Task 3: Create a Class  ATBStudent and 5 Objects - (A/B) - github.com
