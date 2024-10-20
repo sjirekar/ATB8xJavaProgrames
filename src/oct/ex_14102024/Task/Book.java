@@ -17,6 +17,7 @@ public abstract class Book {
     protected String author;
     protected double price;
 
+    //Constructor
     public Book(String name, String author, double price) {
         this.name = name;
         this.author = author;
