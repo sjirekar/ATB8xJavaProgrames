@@ -1,4 +1,4 @@
-package oct.ex_16102024;
+package oct.ex_16102024_Static_Keyword;
 
 public class Lab156 {
     public static void main(String[] args) {
