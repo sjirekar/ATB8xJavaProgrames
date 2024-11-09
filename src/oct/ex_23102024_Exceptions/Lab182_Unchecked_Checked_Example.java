@@ -1,4 +1,4 @@
-package oct.ex_23112024_Exceptions;
+package oct.ex_23102024_Exceptions;
 
 import java.io.File;
 import java.io.FileNotFoundException;
