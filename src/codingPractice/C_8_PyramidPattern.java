@@ -2,6 +2,16 @@ package codingPractice;
 
 public class C_8_PyramidPattern {
     public static void main(String[] args) {
+
+//        ✅ Pyramid pattern in Java
+//
+//    *
+//   ***
+//  *****
+// *******
+//*********
+
+
         int rows = 5; // Number of rows in the pyramid
 
         for (int i = 1; i <= rows; i++) {
