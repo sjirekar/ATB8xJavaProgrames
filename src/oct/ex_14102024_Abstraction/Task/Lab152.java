@@ -1,4 +1,4 @@
-package oct.ex_14102024.Task;
+package oct.ex_14102024_Abstraction.Task;
 
 public class Lab152 {
     public static void main(String[] args) {

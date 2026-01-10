@@ -1,4 +1,4 @@
-package oct.ex_14102024.realex2;
+package oct.ex_14102024_Abstraction.realex2;
 
 abstract class Engine {
     abstract void startEngine();

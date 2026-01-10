@@ -1,4 +1,4 @@
-package oct.ex_14102024;
+package oct.ex_14102024_Abstraction;
 
 public class BaseClass extends GrandBaseClass{
     //Web Automation

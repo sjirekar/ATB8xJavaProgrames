@@ -1,4 +1,4 @@
-package oct.ex_14102024.realex;
+package oct.ex_14102024_Abstraction.realex;
 
 public class Lab145 {
     public static void main(String[] args) {

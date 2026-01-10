@@ -1,4 +1,4 @@
-package oct.ex_14102024.Task;
+package oct.ex_14102024_Abstraction.Task;
 //
 //Book class which has an abstract method getDetails(),name, author, price.
 //

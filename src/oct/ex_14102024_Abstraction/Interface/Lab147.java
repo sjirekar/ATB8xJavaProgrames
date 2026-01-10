@@ -1,4 +1,4 @@
-package oct.ex_14102024;
+package oct.ex_14102024_Abstraction.Interface;
 
 public class Lab147 {
     public static void main(String[] args) {

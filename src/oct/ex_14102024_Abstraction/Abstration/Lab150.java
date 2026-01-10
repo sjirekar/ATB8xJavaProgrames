@@ -1,4 +1,4 @@
-package oct.ex_14102024.Abstration;
+package oct.ex_14102024_Abstraction.Abstration;
 
 public class Lab150 {
 }
