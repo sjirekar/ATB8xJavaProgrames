@@ -5,7 +5,7 @@ public class C_2_tablePrintUsingPrintf {
 
         int n = 10;
         for (int i = 1; i <= 10; i++) {
-            System.out.printf("%d\t%d\t\n", i+"x"+n+"=", n*i);
+            System.out.printf("%d x %d = %d\n", i, n, n * i);
         }
 
 
