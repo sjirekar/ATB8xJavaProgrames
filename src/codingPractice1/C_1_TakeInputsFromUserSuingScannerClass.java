@@ -2,7 +2,7 @@ package codingPractice1;
 
 import java.util.Scanner;
 
-public class C_1_takeInputsFromUserSuingScannerClass {
+public class C_1_TakeInputsFromUserSuingScannerClass {
     public static void main(String[] args) {
         ////You can take input from users using the Scanner class////
         Scanner sc = new Scanner(System.in);

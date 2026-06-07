@@ -1,6 +1,6 @@
 package codingPractice1;
 
-public class C_2_tablePrintUsingPrintf {
+public class C_2_TablePrintUsingPrintf {
     public static void main(String[] args) {
 
         int n = 10;
